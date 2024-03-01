@@ -3,7 +3,7 @@ Animesh has  empty candy jars, numbered from  to , with infinite capacity. He pe
 Example
 
 
-
+ 
 The array has  elements that all start at . In the first operation, add  to the first  elements. Now the array is . In the second operation, add  to the last  elements (3 - 5). Now the array is  and the average is 10. Sincd 10 is already an integer value, it does not need to be rounded.
 
 Function Description
